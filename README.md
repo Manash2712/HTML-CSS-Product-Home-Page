@@ -1,4 +1,4 @@
-# HTML & CSS Plant HomePage
+# HTML & CSS Product Home Page
 
 ### In this project I learned
 
